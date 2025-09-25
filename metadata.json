@@ -1,0 +1,5 @@
+{
+  "name": "Conversona",
+  "description": "An application where two AI instances, each with an optional assigned role, engage in a deep, reflective conversation about a user-provided topic.",
+  "requestFramePermissions": []
+}
